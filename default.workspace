@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="2SR/2SR.cbp" />
+		<Project filename="2SR1/2SR1.cbp" />
+		<Project filename="3SR/3SR.cbp" />
+		<Project filename="3SR1/3SR1.cbp" />
+		<Project filename="1SR/1SR.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
